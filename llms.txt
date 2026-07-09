@@ -1,0 +1,24 @@
+# Gram Pacific Inc.
+
+> Gram Pacific Inc. is a managed remote staffing company. Small and medium businesses in the United States, Canada, and Australia hire dedicated, full-time remote employees across 91 roles, from executive assistants, bookkeepers, and grant writers to software engineers, AI and machine learning engineers, cybersecurity analysts, paralegals, medical billers, and e-commerce store managers.
+
+## Key facts
+- Pricing: standard roles $3,000 per month flat; technical roles (software, data, AI, cloud, security) $4,000 per month flat.
+- The fee is all-inclusive: the professional's salary and benefits, recruitment and vetting, role-specific training (GP Academy), equipment, connectivity, payroll administration, and daily supervision by an Operations Manager.
+- Discounts: Team Scale (2-4 employees 5%, 5-9 employees 10%, 10+ employees 15%) stacks with Prepay Advantage (3 months 3%, 6 months 6%, 12 months 10%), capped at 20% combined.
+- Every employee works 40 hours per week aligned to the client's time zone.
+- Replacement guarantee: a vetted, trained substitute within 10 business days at no additional cost.
+- Talent is employed with salaries and benefits; candidates are never charged a fee at any stage.
+
+## Roles (91 across 11 categories)
+Administrative & Executive Support; Writing & Communication; Marketing & Sales; Design & Creative; Technology (technical tier); Finance & HR; Customer Support; Education & Language; Legal & Business; Healthcare; E-commerce.
+
+## Highest-paying flagship roles
+Executive Assistant, Grant Writer, Proposal Writer, Technical Writer, Digital Marketing Specialist, UI/UX Designer, Software Developer, Machine Learning Engineer, Cybersecurity Analyst, Cloud Engineer, Data Scientist, Financial Analyst, Recruiter, Project Manager, Product Manager.
+
+## Pages
+- Services directory (91 roles): /#/services
+- Pricing and live discount calculator: /#/pricing
+- Blog (guides on delegation and remote hiring economics): /#/blog
+- Careers and talent pool: /#/careers
+- Contact / book a roles call: /#/contact
